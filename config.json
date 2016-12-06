@@ -1,5 +1,5 @@
 {
-    "app_id" : "com.moodle.moodlemobile",
+    "app_id" : "nz.net.catalyst.moodlemobile",
     "appname": "Moodle Mobile",
     "versioncode" : "2015",
     "versionname" : "3.1.3",
@@ -9,7 +9,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {"student": {"url": "http://school.demo.moodle.net", "username": "student", "password": "moodle"}, "teacher": {"url": "http://school.demo.moodle.net", "username": "teacher", "password": "moodle"}, "cva": {"url": "http://mm.cvaconsulting.com/moodle", "username": "student", "password": "student"}},
-    "gcmpn": "694767596569",
+    "gcmpn": "818604004003",
     "customurlscheme": "moodlemobile",
     "siteurl": "",
     "skipssoconfirmation": "false",
